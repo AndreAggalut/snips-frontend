@@ -1,0 +1,24 @@
+header {
+  padding: 10px 2rem;
+  background-color: antiquewhite;
+  border: 1px black solid;
+}
+
+header nav ul li {
+  display: inline-block;
+}
+
+header nav ul li a {
+  padding: 5px;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+header nav ul li a:hover {
+  color: white;
+}
+
+.default-header {
+  background-color: antiquewhite;
+  text-align: center;
+}

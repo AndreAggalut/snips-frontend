@@ -1,0 +1,8 @@
+@import "resets.css";
+@import "header.css";
+@import "hero.css";
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet');
+
+html {
+  font-family: "Monserrat", "Times New Roman", Times, sans-serif;
+}
